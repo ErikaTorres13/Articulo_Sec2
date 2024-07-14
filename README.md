@@ -12,7 +12,9 @@ El calzado es uno de los elementos más cruciales para el senderismo. Debe ofrec
 - **Salomon X Ultra 4 GTX:** Ofrecen una excelente tracción y comodidad, ideales para terrenos variados.
 - **Merrell Moab 3 Mid Waterproof:** Buen soporte para el tobillo y resistencia al agua, aptas para condiciones húmedas.
 
-**Imagen recomendada:** ![Calzado de senderismo](https://lh3.googleusercontent.com/d/1vX6CWXgOtiMKa_xY-fs8XqeevOxbbNMe)
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1vX6CWXgOtiMKa_xY-fs8XqeevOxbbNMe" alt="Calzado de senderismo" style="width: 80%; max-width: 600px;">
+</p>
 
 ## 2. Ropa
 
@@ -25,7 +27,9 @@ La ropa adecuada te protege de los elementos y mantiene tu confort durante el se
 - **Capa Intermedia:** Forros polares ligeros (ej., **Patagonia R1 Hoody**).
 - **Capa Externa:** Chaquetas impermeables y cortaviento (ej., **The North Face Venture 2**).
 
-**Imagen recomendada:** ![Ropa de senderismo](https://lh3.googleusercontent.com/d/1pdga6pdlBhI2cTpphjqrRxQpYVfz5Alf)
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1pdga6pdlBhI2cTpphjqrRxQpYVfz5Alf" alt="Ropa de senderismo" style="width: 80%; max-width: 600px;">
+</p>
 
 ## 3. Mochilas
 
@@ -37,7 +41,9 @@ La mochila es esencial para llevar tus pertenencias y equipo. Busca mochilas con
 - **Osprey Daylite Plus:** Compacta y versátil, ideal para senderos de un día.
 - **Deuter Futura Vario 50+10:** Adecuada para travesías más largas con capacidad de ajuste y confort.
 
-**Imagen recomendada:** ![Mochila de senderismo](https://lh3.googleusercontent.com/d/1YptfTQ54L8rX3vIKWg-WBW8VouAeddG_)
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1YptfTQ54L8rX3vIKWg-WBW8VouAeddG_" alt="Mochila de senderismo" style="width: 80%; max-width: 600px;">
+</p>
 
 ## 4. Otros Accesorios Importantes
 
@@ -47,14 +53,18 @@ La mochila es esencial para llevar tus pertenencias y equipo. Busca mochilas con
 - **Botiquín de Primeros Auxilios:** Incluye elementos básicos como vendas, desinfectante y medicamentos esenciales.
 - **Sistema de Hidratación:** Como botellas de agua o un sistema de hidratación tipo camelbak (ej., **Camelbak Crux**).
 
-**Imagen recomendada:** ![Accesorios de senderismo](https://lh3.googleusercontent.com/d/1NbjUWLlm0f0ks3pA8vMm7cWnH8oCoKSd)
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1NbjUWLlm0f0ks3pA8vMm7cWnH8oCoKSd" alt="Accesorios de senderismo" style="width: 80%; max-width: 600px;">
+</p>
 
 ## Consejos para Elegir el Equipo
 
 1. **Tipo de Ruta:** Elige tu equipo según el tipo de sendero. Para rutas técnicas y de alta montaña, invierte en equipo de mayor calidad y durabilidad. Para senderos sencillos, opciones más básicas pueden ser suficientes.
 2. **Condiciones Climáticas:** Considera las condiciones climáticas del lugar. En climas fríos y húmedos, prioriza ropa y calzado impermeable y aislante. En climas cálidos, busca ropa ligera y transpirable.
 
-**Imagen recomendada:** ![Consejos para elegir equipo](https://lh3.googleusercontent.com/d/1IiYyMiYdOkhA6cpkQdihZFOqp5J3ueD6)
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1IiYyMiYdOkhA6cpkQdihZFOqp5J3ueD6" alt="Consejos para elegir equipo" style="width: 80%; max-width: 600px;">
+</p>
 
 Recuerda visitar nuestras redes sociales y página web para más consejos sobre senderismo y aventuras al aire libre. También puedes leer nuestro blog para mantenerte al tanto de las últimas noticias y recomendaciones en el mundo del senderismo.
 
